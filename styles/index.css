@@ -8,3 +8,7 @@ p{
 .h2{
     color: blue; text-align: left;
 }
+ul{
+    color: cyan; font-size: 30px;
+    background-color: blue;
+}
